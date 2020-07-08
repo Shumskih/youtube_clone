@@ -38,7 +38,7 @@ let path = {
 	// img: 'gulp/app/images/**/*',
 	// img_build: 'gulp/dist/images',
 
-	php: ['*.php'],
+	php: ['*.php', '**/*.php'],
 }
 
 // Local Server
